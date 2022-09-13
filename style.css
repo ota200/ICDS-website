@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz@8..144&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #FBEBEE;
+    color: #E3170A;
+}
+
+
+/* banner styling */
+.banner{
+    width:65vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+/* To center text/images*/
+.center {
+    margin: auto;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    text-align: center;
+}
+
+.center_divs {
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+/* font, font-size's */
+h1{
+    font-family: 'Roboto Serif', serif;
+    font-size: min(5vw);
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Navigation bar styling */
+
+.nav {
+    padding-left: 12vw;
+    padding-right: 12vw;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+a {
+    text-decoration: none;
+    padding-inline: 1rem;
+
+
+
+
+}
